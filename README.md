@@ -1,8 +1,8 @@
-# Indice dei Programmi
+# Indice dei Programmi di studio
 
 `Ver:0.1`
 
-In questo repository terremo i **programmi dei vari corsi distribuiti negli anni** raccolti dalla community di **Telegram:heart:Unical: Dimes**.
+In questo repository terremo i **programmi di studio dei vari corsi distribuiti negli anni** raccolti dalla community di **Telegram:heart:Unical: Dimes**.
 
 >  <u>Nota bene</u>:
 >
@@ -18,13 +18,14 @@ Ricorda sempre di indicare il professore o l’esercitatore con il quale hai aff
 
 L'intera struttura è basata su più file, uno a corso di laurea:
 
--   [LT Ingegneria Informatica]()
--   [LT Ingegneria Elettronica]()
--   [LT Ingegneria Alimentare]()
--   [LM Ingegneria Informatica]()
--   [LM Ingegneria Elettronica]()
--   [LM Ingegneria Telecomunicazioni]()
--   [LM Ingegneria Automazione]()
+-   [LT Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/LT_Ingegneria%20Informatica_IndiceDeiProgrammi.md)
+-   [LT Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/LT_Ingegneria%20Elettronica_IndiceDeiProgrammi.md)
+-   [LT Ingegneria Alimentare](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/LT_Ingegneria%20Alimentare_IndiceDeiProgrammi.md)
+-   [LM Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/LM_Ingegneria%20Informatica_IndiceDeiProgrammi.md)
+-   [LM Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/LM_Ingegneria%20Elettronica_IndiceDeiProgrammi.md)
+-   [LM Ingegneria Telecomunicazioni](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/LM_Ingegneria%20Telecomunicazione_IndiceDeiProgrammi.md)
+-   [LM Ingegneria Automazione](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/LM_Ingegneria%20Automazione_IndiceDeiProgrammi.md)
+-   [IOT Engineering M.D.](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/LM_Ingegneria%20IOT_IndiceDeiProgrammi.md)
 
 I file sono perfettamente visionabili su github stesso, ma verrà comunque generato un pdf e messo nella directory pdf del progetto per ogni modifica
 

@@ -1,9 +1,10 @@
 
-# Indice delle domande degli esami orali: Ingegneria Alimentare LT
+# Indice dei programmi di studio: Ingegneria Alimentare LT
 
-Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea di **Ingegneria Alimentare Laurea Triennale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall' organizzazione **UnicalLoveTelegram**
+Questo file contiene i programmi di studio raccolti da noi studenti nei vari anni nel corso di laurea in **Ingegneria Automazione Laurea Magistrale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice dei programmi](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi) gestito dall' organizzazione **UnicalLoveTelegram**
 
-Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
+Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
-[TOC]
 
+
+- [Indice dei programmi di studio: Ingegneria Alimentare LT](#indice-dei-programmi-di-studio-ingegneria-alimentare-lt)

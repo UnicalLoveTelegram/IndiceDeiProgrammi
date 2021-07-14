@@ -1,9 +1,7 @@
+# Syllabus of: IOT Engineering M.D.
 
-# Indice delle domande degli esami orali: Ingegneria Alimentare LT
+This file contains the syllabuses collected by us students in the various years of the **IOT Engineering Master degree** course at **Unical** (*University of Calabria*) and is part of the [Index of syllabuses](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi) project managed by the **UnicalLoveTelegram** organization.
 
-Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea di **Ingegneria Alimentare Laurea Triennale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall' organizzazione **UnicalLoveTelegram**
+Read our [README](https://github.com/UnicalLoveTelegram/IndiceDeiProgrammi/blob/main/README.md) to know all the details of the project, how to participate and how to browse all our material!
 
-Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
-
-[TOC]
-
+- [Syllabus of: IOT Engineering M.D.](#syllabus-of-iot-engineering-md)
